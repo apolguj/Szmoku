@@ -1,5 +1,6 @@
 - 👋 Hi, I’m - @apolguj
 - 👀 I’m interested in - IT
-- 🌱 I’m currently learning - Python, HTML, CSS, JavaScript, PHP
-- 🛡️ Passed - Introduction to Cybersecurity
-- 📫 How to reach me? - Discord: smokuu or apolguj@gmail.com
+- 📱 Frontend Developer
+- 🌱 I’m currently learning - Python, HTML, CSS, JavaScript, PHP, networking and system administration skills
+- 🛡️ Passed - CISCO Introduction to Cybersecurity
+- 📫 How to reach me? - Discord: smokuu or apolguj@gmail.com (🇵🇱 or eng)
