@@ -1,5 +1,5 @@
-- 👋 Hi, I’m - @Szmoku
+- 👋 Hi, I’m - @apolguj
 - 👀 I’m interested in - IT
-- 🌱 I’m currently learning - C++, HTML, CSS
+- 🌱 I’m currently learning - Python, HTML, CSS, JavaScript, PHP
 - 🛡️ Passed - Introduction to Cybersecurity
-- 📫 How to reach me? - Discord: Smoku#1111 or apolguj@gmail.com
+- 📫 How to reach me? - Discord: smokuu or apolguj@gmail.com
